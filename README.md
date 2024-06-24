@@ -8,7 +8,7 @@
 <hr>
 <p> The <strong> GV store </strong> has yet to meet the new owners but we know for sure if it doesn't go well Dave will come out of retirement and help out the store! If he does come out of retirement he will have his wife help him out and some of his friends. Hopefully the new owner does a better job than the old ones! Hopefully the <strong> GV store </strong>  will be a success.</p>
 
-  <a href="https://github.com/jakekinn/jakekinn.github.io">Click here for PDF GitHub</a> 
+  <a href="https://jakekinn.github.io">Click here to go back</a> 
 
 </body>
 </html>
